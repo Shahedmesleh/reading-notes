@@ -6,4 +6,5 @@ my name is Shahed, i am 24 years old,i graduated from JUST  university befor two
 
 | Reads      | Description |
 | -----------| ----------- |
-| Paragraph  |[growth mindset](https://shahedmesleh.github.io/reading-notes/growth-mindset)        |
+| Paragraph  |[growth mindset](https://shahedmesleh.github.io/reading-notes/growth-mindset)        
+|Paragraph  |[text edtior](https://shahedmesleh.github.io/reading-notes/text-edtior)        |
