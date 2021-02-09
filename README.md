@@ -13,5 +13,5 @@ my name is Shahed, i am 24 years old,i graduated from JUST  university befor two
 |Paragraph| [HTMLCHAPTER](https://shahedmesleh.github.io/reading-notes/HTML CHAPTER)       |
             
 |Paragraph  |[loopandopratare](https://shahedmesleh.github.io/reading-notes/loopandopratare)|
-
+|Paragraph|[function](https://shahedmesleh.github.io/reading-notes/function)|
        
